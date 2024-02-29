@@ -2,6 +2,8 @@
 
 # Basic Information
 
+![hackintosh-proart](https://github.com/luchina-gabriel/EFI-ASUS-B760-PROART-DDR5-INTEL-CORE-i5-12600KF-RX6600-PUBLIC/assets/23700365/f61be7ed-120c-491e-9241-a1d714eac3b1)
+
 **Latest working macOS**: macOS Sonoma (14.3.1)
 <br>
 **Current OpenCore**: 0.9.8
